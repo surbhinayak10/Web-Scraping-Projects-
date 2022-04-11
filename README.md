@@ -1,7 +1,8 @@
 # Web-Scraping-Projects
 
 **Project 1**: 
-Script: Webscraper_and_s3.ipynb /n
-In this project we are sracping data from the Charities NYS.COM for analysis. First we are creating dataframe using web scraping in python environment and uploading data into the s3 bucket for analysis using AWS athena service.
+Script: Webscraper_and_s3.ipynb 
 
-**Project 2**: In this project we are using different methods for web scrapping like using BeautifulSoup, request libraries. 
+In this project, we are scraping data from the Charities NYS.COM for analysis. First, we are creating dataframe using web scraping in a python environment and uploading data into the s3 bucket for analysis using the AWS Athena service.
+
+**Project 2**: In this project, we are using different methods for web scrapping like using BeautifulSoup, and request libraries. 
