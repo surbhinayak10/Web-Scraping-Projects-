@@ -10,4 +10,10 @@ In this project, we are scraping data from the Charities NYS.COM for analysis. F
 
 Script - Web Scrapping with Different Methods.ipynb
 
-In this project, we are using different methods for web scrapping like using BeautifulSoup, and request python libraries. 
+In this project, we are using different methods for web scraping like using BeautifulSoup, and request python libraries. 
+
+**Project 3**: 
+
+Script - Top 24 programming languages.ipynb
+
+In this project, we are extraxting the data for different programming languages and their respective average annual salary using web scraping like using BeautifulSoup, and request python libraries. Also creating visulaization using matplotlib library. 
