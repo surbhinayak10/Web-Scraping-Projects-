@@ -16,4 +16,4 @@ In this project, we are using different methods for web scraping like using Beau
 
 Script - Top 24 programming languages.ipynb
 
-In this project, we are extraxting the data for different programming languages and their respective average annual salary using web scraping like using BeautifulSoup, and request python libraries. Also creating visulaization using matplotlib library. 
+In this project, we are extracting the data for different programming languages and their respective average annual salary using web scraping like using BeautifulSoup, and request python libraries. Also creating visualization using matplotlib library.
